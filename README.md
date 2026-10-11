@@ -24,6 +24,10 @@ kits, and turns every test into a tamper-evident, digitally signed record.
 | 8 | Log + search + export, verification page | done |
 | 9 | Demo seed, demo mode, design polish, README, final review | **done** |
 
+## Image representation
+<img width="1917" height="1078" alt="Screenshot 2026-10-12 005957" src="https://github.com/user-attachments/assets/ea048a5b-3cc6-41f9-b2de-6c1b2c253156" />
+
+
 ## Repository layout
 
 ```
