@@ -1,0 +1,20 @@
+fastapi==0.141.1
+uvicorn[standard]==0.35.0
+sqlalchemy>=2.0.36
+pydantic>=2.10
+pydantic-settings>=2.6
+PyJWT>=2.9
+argon2-cffi>=23.1
+python-multipart>=0.0.12
+cryptography>=43.0
+httpx>=0.27
+pytest>=8.3
+
+# Step 4 - image pipeline (quality gates, reference card, colour matching)
+numpy>=2.0
+opencv-contrib-python-headless>=5.0
+scikit-image>=0.26
+pillow>=11
+
+# Step 8 - PDF/QR export
+reportlab>=4.2
